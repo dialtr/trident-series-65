@@ -92,7 +92,7 @@ The modules use Molex KK396 connectors, with varying numbers of pins. The
 female connectors on the modules mate with a backplane in the console frame,
 while the male connectors mate with connectors in the console's wiring loom:
 
-![Module Connectors](assets/connectors.txt)
+[Module Connectors](assets/connectors.txt)
 
 The file above maps out the number of male/female pins on each module type.
 Note that this information is relevant only for the 24-bus modules. 
