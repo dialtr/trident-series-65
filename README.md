@@ -6,6 +6,7 @@ Tom R. Dial
 
 * [Background](#background)
 * [Plans](#plans)
+* [First Steps](#first-steps)
 
 ## Background
 
@@ -76,3 +77,22 @@ Accordingly, I will be conducting experiments and measurements along the way.
 Will swapping out chips, capacitors, and other mods live up to the hype?
 We're going to find out!
 
+## First Steps
+
+The first step that I am going to take is to build a test hardness for the
+modules that comprise the system. There are four distinct types of modules
+in the console:
+
+1. Input Module
+2. Group / Tape Output Module
+3. Echo Return Module
+4. Master Module
+
+The modules use Molex KK396 connectors, with varying numbers of pins. The
+female connectors on the modules mate with a backplane in the console frame,
+while the male connectors mate with connectors in the console's wiring loom:
+
+![Module Connectors](assets/connectors.txt)
+
+The file above maps out the number of male/female pins on each module type.
+Note that this information is relevant only for the 24-bus modules. 

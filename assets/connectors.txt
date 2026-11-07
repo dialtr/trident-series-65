@@ -1,0 +1,55 @@
+Trident 24 / Series 65 Module Connector Summary
+
+* All connectors are Molex KK396.
+
+Input Module
+  10 Male Pins 
+    10 Pin Connector
+
+  44 Female Pins
+    8 Pin Connector
+    8 Pin Connector
+    8 Pin Connector
+    8 Pin Connector
+    4 Pin Connector
+    8 Pin Connector
+
+Group Module
+  15 Male Pins
+    12 Pin Connector
+    3 Pin Connector
+
+  44 Female Pins
+    8 Pin Connector
+    8 Pin Connector
+    8 Pin Connector
+    8 Pin Connector
+    8 Pin Connector
+    4 Pin Connector
+
+Echo Return Module
+  28 Male Pins
+    8 Pin Connector
+    8 Pin Connector
+    4 Pin Connector
+    8 Pin Connector
+
+  20 Female Pins
+    8 Pin Connector
+    4 Pin Connector
+    8 Pin Connector
+
+Master Module
+  22 Male Pins
+    8 Pin Connector
+    8 Pin Connector
+    6 Pin Connector
+
+  44 Female Pins
+    8 Pin Connector
+    8 Pin Connector
+    8 Pin Connector
+    4 Pin Connector
+    8 Pin Connector
+    8 Pin Connector
+
